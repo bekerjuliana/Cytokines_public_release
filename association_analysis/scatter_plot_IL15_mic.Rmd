@@ -1,8 +1,8 @@
 ---
 title: "Scatter plots - IL15 microglial expression and AD pathology phenotype"
 author: |
- | Juliana Beker Godoy
- | Graduate program in Bioinformatics
+ | Juliana Beker Godoy, MSc
+ | Graduate Program in Bioinformatics
  | Professional and Technological Education Sector
  | Federal University of Parana (UFPR)
  | Curitiba, Brazil
