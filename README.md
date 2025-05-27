@@ -21,3 +21,8 @@ Results:
 	- Boxplot showing IL15 expression in bulk RNAseq data by diagnosis can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/boxplot_IL15_bulk.html)
 	- Boxplot showing IL15 expression in microglia by diagnosis can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/boxplot_IL15_mic.html)
 	
+2. Biological sources of variance for the cytokines:
+
+	- Variance Partition analysis using bulk RNAseq data [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_bulk.html)
+	- Variance Partition analysis using single-nuclei RNAseq data [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_sn.html)
+	
