@@ -1,4 +1,4 @@
-<h1 align="center"> Replication with external datasets </h1><br>
+<h1 align="center"> Cytokine expression profile in the human brain of older adults (public release) </h1><br>
 
 > This repository includes code and plots. Exploratory analysis and intermediate processing files are too large for this repository.
 
