@@ -23,6 +23,8 @@ output:
 > Dorsolateral prefrontal cortex (DLFPC) | 
 > ROSMAP cohort 
 
+# Cell types
+
 ```{r clean, warning=FALSE, echo=FALSE, results='hide'}
 #This command clean all variables. BE CAREFULL!!! 
 rm(list = setdiff(ls(), lsf.str()))
