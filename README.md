@@ -8,7 +8,7 @@
 
 **Figure 1:** Study design overview.
 
-Exploratory analysis can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/exploratory_analysis/exploratory_plots_bulk_T054.html)
+Exploratory analysis can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/exploratory_analysis/exploratory_plots_bulk.html)
 
 List of cytokines with family annotations can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/cytokines_families.html)
 
@@ -32,4 +32,5 @@ Results:
 	
 3. Genetic risk on cytokines expression:
 
-	- AD-PRS analysis using single-nuclei RNAseq data can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/prs_analysis/prs_sn_association.html)	
+	- AD-PRS analysis using single-nuclei RNAseq data can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/prs_analysis/prs_sn_association.html)
+	
