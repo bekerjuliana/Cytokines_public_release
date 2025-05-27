@@ -26,3 +26,6 @@ Results:
 	- Variance Partition analysis using bulk RNAseq data [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_bulk.html)
 	- Variance Partition analysis using single-nuclei RNAseq data [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_sn.html)
 	
+3. Genetic risk on cytokines expression:
+
+	- AD-PRS analysis using single-nuclei RNAseq data can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/prs_analysis/prs_sn_association.html)	
