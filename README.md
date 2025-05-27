@@ -10,6 +10,10 @@
 
 Exploratory analysis can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/exploratory_analysis/exploratory_plots_bulk_T054.html)
 
+List of cytokines with family annotations can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/cytokines_families.html)
+
+Cytokines expression per dataset [here](https://bekerjuliana.github.io/Cytokines_public_release/upset_plot_expr_genes.html)
+
 Results:
 
 1. Association analysis:
