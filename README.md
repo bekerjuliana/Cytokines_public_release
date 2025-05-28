@@ -18,17 +18,17 @@ Results:
 
 1. Association analysis:
 	
-	- Linear and/or logistic regression using [bulk RNAseq data are here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/signif_heatmap_correl_bulkRNA.html)
-	- Linear and logistic regression using [single-nuclei RNAseq data are here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/signif_heatmap_correl_snRNA.html)
-	- Scatter plot showing correlation among IL expression in the bulk RNAseq dataset and AD traits can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/scatter_plots_IL15_bulk.html)
-	- Scatter plot showing correlation among IL microglial expression and AD pathological traits can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/scatter_plot_IL15_mic.html)
+	- Linear and/or logistic regressions using [bulk RNAseq data are here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/signif_heatmap_correl_bulkRNA.html)
+	- Linear and/or logistic regressions using [single-nuclei RNAseq data are here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/signif_heatmap_correl_snRNA.html)
+	- Scatter plot showing correlation among IL15 expression in the bulk RNAseq dataset and AD traits can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/scatter_plots_IL15_bulk.html)
+	- Scatter plot showing correlation among IL15 microglial expression and AD pathological traits can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/scatter_plot_IL15_mic.html)
 	- Boxplot showing IL15 expression in bulk RNAseq data by diagnosis can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/boxplot_IL15_bulk.html)
 	- Boxplot showing IL15 expression in microglia by diagnosis can be found [here](https://bekerjuliana.github.io/Cytokines_public_release/association_analysis/boxplot_IL15_mic.html)
 	
 2. Biological sources of variance for the cytokines:
 
-	- Variance Partition analysis using bulk RNAseq data [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_bulk.html)
-	- Variance Partition analysis using single-nuclei RNAseq data [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_sn.html)
+	- Variance Partition analysis using bulk RNAseq data are [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_bulk.html)
+	- Variance Partition analysis using single-nuclei RNAseq data are [here](https://bekerjuliana.github.io/Cytokines_public_release/biological_drivers/vp_cytokines_sn.html)
 	
 3. Genetic risk on cytokines expression:
 
