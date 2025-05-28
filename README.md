@@ -3,7 +3,7 @@
 > This repository includes code and plots. Exploratory analysis and intermediate processing files are too large for this repository.
 
 <p align="center">
- <img src="https://github.com/bekerjuliana/Cytokines_public_release/blob/main/Fig.1%20-%20Graph%20abstract%20-%20Paper%20Juliana.png">
+ <img src="https://github.com/bekerjuliana/Cytokines_public_release/blob/main/v3_Fig.1%20-%20Graph%20abstract%20-%20Paper%20Juliana.png">
 </p>
 
 **Figure 1:** Study design overview.
